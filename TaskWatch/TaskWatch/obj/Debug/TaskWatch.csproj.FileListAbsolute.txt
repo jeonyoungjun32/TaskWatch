@@ -1,0 +1,10 @@
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\bin\Debug\TaskWatch.exe.config
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\bin\Debug\TaskWatch.exe
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\bin\Debug\TaskWatch.pdb
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.csproj.AssemblyReference.cache
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.Properties.Resources.resources
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.csproj.GenerateResource.cache
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.csproj.CoreCompileInputs.cache
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.exe
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\TaskWatch.pdb
+C:\Users\ddydw\source\repos\TaskWatch\TaskWatch\obj\Debug\ThredadWatch.Form1.resources
